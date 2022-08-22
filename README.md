@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sailorbru
 - 👀 I’m interested in know all about technology
-- 🌱 I’m currently learning HTML,CSS and .NET
+- 🌱 I’m currently learning java
 - 💞️ I’m looking to collaborate on everyone 
 
 <!---
